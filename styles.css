@@ -1,0 +1,122 @@
+h1 {
+  border: 2px solid #343D40;
+  padding: 20%;
+  text-align: center;
+  font-family:monospace;
+  font-size: 40px;
+  background-image:url("http://ecoronado.com/wp-content/uploads/2012/10/2239-340093_10150553487800862_521280306_o.jpg");
+  text-decoration: none;
+
+}
+
+.box1 {
+  font-size: 20px;
+  width: 100%;
+  border: 1px solid #343D40;
+  margin-left: 10%;
+  margin-right: 5%;
+  align-content: center;
+  padding: 3%;
+  text-align: center;
+  font-family: monospace;
+  background-color: #F5F1DA;
+}
+
+.box1 img{
+  width: 100%;
+}
+
+.box2 {
+  font-size: 20px;
+  width:100%;
+  border: 1px solid #6CBED9;
+  margin-left: 5%;
+  margin-right: 10%;
+  align-content: center;
+  padding: 3%;
+  text-align: center;
+  font-family: monospace;
+  background-color: #F5F1DA;
+
+}
+
+.box2 img{
+  width: 100%;
+
+}
+
+.box3 {
+  font-size: 20px;
+  width: 100%;
+  border: 1px solid #839E5F;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 5%;
+  align-content: center;
+  padding: 3%;
+  text-align: center;
+  font-family: monospace;
+  background-color: #F5F1DA;
+}
+
+.box3 img{
+  width: 100%;
+}
+
+.box4 {
+  font-size: 20px;
+  width:100%;
+  border: 1px solid #CBBAD1;
+  margin-left: 2%;
+  margin-right: 2%;
+  align-content: center;
+  padding: 3%;
+  margin-bottom: 5%;
+  text-align: center;
+  font-family: monospace;
+  background-color: #F5F1DA;
+
+}
+
+.box4 img{
+  width: 100%;
+}
+
+.box5 {
+  font-size: 20px;
+  width:100%;
+  border: 1px solid #F2C9E0;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 5%;
+  align-content: center;
+  padding: 3%;
+  text-align: center;
+  font-family: monospace;
+  background-color: #F5F1DA;
+
+}
+
+.box5 img{
+  width: 100%;
+}
+
+.sidebyside {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 2%;
+
+}
+
+.threeisforme {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 2%;
+  }
+
+#rw {
+  float: left;
+  position:fixed;
+}
